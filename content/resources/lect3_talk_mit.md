@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/ce8ed7b37e30ac861e5ae57f787cacab_lect3_talk_mit.pdf
+file: /media/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/ce8ed7b37e30ac861e5ae57f787cacab_lect3_talk_mit.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect3_talk_mit.pdf
 uid: ce8ed7b3-7e30-ac86-1e5a-e57f787cacab

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/faae4666c46eb479cbef9d39036825b8_load_assignment.pdf
+file: /media/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/faae4666c46eb479cbef9d39036825b8_load_assignment.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: load_assignment.pdf
 uid: faae4666-c46e-b479-cbef-9d39036825b8

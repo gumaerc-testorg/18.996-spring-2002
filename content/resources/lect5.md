@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/44d76748e0cb51119dd3fe41d721e5c6_lect5.pdf
+file: /media/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/44d76748e0cb51119dd3fe41d721e5c6_lect5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect5.pdf
 uid: 44d76748-e0cb-5111-9dd3-fe41d721e5c6
