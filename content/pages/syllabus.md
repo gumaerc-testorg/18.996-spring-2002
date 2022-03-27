@@ -40,8 +40,8 @@ The class will not have any exams. Students will be asked to scribe lecture note
 
 Please use the following LaTeX package to prepare the notes
 
-*   LaTex Style Package ([STY](/courses/mathematics/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/syllabus/scribe.sty))
-*   Sample (LaTeX) ([TEX](/courses/mathematics/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/syllabus/scribe12.tex))
+*   LaTex Style Package ([STY]({{< baseurl >}}/resources/scribe))
+*   Sample (LaTeX) ([TEX]({{< baseurl >}}/resources/scribe12))
 
 Assignments
 -----------

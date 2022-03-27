@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c33489e2-2524-4cec-db71-3e9f5ef8529d
 resourcetype: Document
 title: lec1present.pdf
 uid: 3170cbaa-7807-c4e2-66f7-9bcb58e6b646

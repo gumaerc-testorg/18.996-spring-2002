@@ -109,10 +109,10 @@ Client-Server DNS
 Load Balancing Problems (Regional)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_mit_6))
+([PDF]({{< baseurl >}}/resources/lecture_mit_6-1))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_mit_6))
+([PDF]({{< baseurl >}}/resources/lecture_mit_6-1))
 {{< tdclose >}}
 
 {{< trclose >}}
