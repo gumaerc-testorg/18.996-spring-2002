@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of weekly course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: c39a6c99-3e5a-4a79-b815-cec413d1f54d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

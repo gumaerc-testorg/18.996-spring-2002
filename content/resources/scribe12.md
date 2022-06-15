@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/36a7f2defd5cc0fed24c8a2716260c71_scribe12.tex
+file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/36a7f2defd5cc0fed24c8a2716260c71_scribe12.tex
 file_type: text/plain
 learning_resource_types: []
 ocw_type: OCWFile

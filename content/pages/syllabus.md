@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, lecturers, prerequisites, requirements, and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 30b0671b-b147-8f3f-5628-d850a1cea69b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -40,8 +46,8 @@ The class will not have any exams. Students will be asked to scribe lecture note
 
 Please use the following LaTeX package to prepare the notes
 
-*   LaTex Style Package ([STY]({{< baseurl >}}/resources/scribe))
-*   Sample (LaTeX) ([TEX]({{< baseurl >}}/resources/scribe12))
+*   LaTex Style Package ({{% resource_link "e1ec6614-4857-9b75-5997-097a28177ab5" "STY" %}})
+*   Sample (LaTeX) ({{% resource_link "36a7f2de-fd5c-c0fe-d24c-8a2716260c71" "TEX" %}})
 
 Assignments
 -----------

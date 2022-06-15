@@ -1,15 +1,19 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/710487320f704aa5d0a76325ab0fbf01_lecture_mit_6.tex
-file_type: text/plain
+file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/11a67a5285d7a1111069fd8feb27d9b5_lecture_mit_6.pdf
+file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: c33489e2-2524-4cec-db71-3e9f5ef8529d
-resourcetype: Other
-title: lecture_mit_6.tex
-uid: 71048732-0f70-4aa5-d0a7-6325ab0fbf01
+resourcetype: Document
+title: lecture_mit_6.pdf
+uid: 11a67a52-85d7-a111-1069-fd8feb27d9b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
