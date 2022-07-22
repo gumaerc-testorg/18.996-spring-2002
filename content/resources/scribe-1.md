@@ -5,6 +5,7 @@ file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-p
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: nocc.gif
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Akamai Network Operations Command Center (NOCC). (Courtesy of Akamai, used with permission.)
-

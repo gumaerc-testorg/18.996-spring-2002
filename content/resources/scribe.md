@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/e1ec661448579b755997097a28177ab5_scribe.sty
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
