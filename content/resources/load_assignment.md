@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/faae4666c46eb479cbef9d39036825b8_load_assignment.pdf
+file_size: 274627
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
