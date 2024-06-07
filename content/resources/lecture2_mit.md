@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/8c1fd33c9445f0949ad15533acfbdec1_lecture2_mit.pdf
+file_size: 671214
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
