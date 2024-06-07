@@ -3,6 +3,7 @@ content_type: resource
 description: Akamai Network Operations Command Center (NOCC). (Courtesy of Akamai,
   used with permission.)
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/00e0768afb419927b7a11331e7c87489_nocc.gif
+file_size: 55634
 file_type: image/gif
 image_metadata:
   caption: ''
