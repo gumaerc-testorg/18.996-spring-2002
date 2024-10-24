@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/37e077dffd229df62848ff766801cbb2_lect11a_mit.pdf
+file: /ol-ocw-studio-app/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/37e077dffd229df62848ff766801cbb2_lect11a_mit.pdf
 file_size: 53835
 file_type: application/pdf
 learning_resource_types:
