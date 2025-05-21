@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/0ad09dd139b9d1c0928cde9a4c544af1_lecture13.pdf
+file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/0ad09dd139b9d1c0928cde9a4c544af1_lecture13.pdf
 file_size: 246346
 file_type: application/pdf
 learning_resource_types:

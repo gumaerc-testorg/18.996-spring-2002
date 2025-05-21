@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/a4bf9d57b1cb0cf270f7263d0a2c937e_dns.pdf
+file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/a4bf9d57b1cb0cf270f7263d0a2c937e_dns.pdf
 file_size: 182815
 file_type: application/pdf
 learning_resource_types:
